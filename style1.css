@@ -21,13 +21,17 @@ body {
 }
   #pic1-td {
    margin: auto;
+   align: left
 }
 #pic2-td {
    margin: auto;
+  align: right
 }
 #pic3-td {
    margin: auto;
+  align: left
 }
 #pic4-td {
    margin: auto;
+  align: right
 }
