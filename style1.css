@@ -26,25 +26,25 @@ body {
   margin-right: auto;
   width: 100%;
 }
-  #pic1 {
+  #pic1-td {
    border: 5px solid #555;
   padding: 30px;
    width: 300px
    margin: 10px;
 }
-#pic2 {
+#pic2-td {
  border: 5px solid #555;
  padding: 30px;
  width:300px
   margin: 10px;
  
 }
-#pic3 {
+#pic3-td {
  border: 5px solid #555;
    padding: 30px;
  width:300px
 }
-#pic4 {
+#pic4-td {
  border: 5px solid #555;
    padding: 140px;
  width:300px
