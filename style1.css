@@ -4,6 +4,8 @@ body {
 }
 #nav-table {
  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 #nav-td {
   width: 400px; text-align:center;
