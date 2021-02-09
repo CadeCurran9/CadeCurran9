@@ -3,7 +3,9 @@ body {
   background-color: lightblue;
 }
 
-
+#background {
+ background-image: url("background.jpg");
+}
  
 
 
