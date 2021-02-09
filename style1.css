@@ -1,13 +1,12 @@
 body {
-  margin:
+ 
   background-color: lightblue;
 }
 #nav-table {
- width: 100%;
+ width: 800px;
 }
 #nav-td {
   width: 200px; text-align:center;
 }
-.img-prog {
-width: 300px;
-}
+#header {
+  
