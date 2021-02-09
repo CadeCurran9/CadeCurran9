@@ -20,19 +20,15 @@ body {
   width: 100%;
 }
   #pic1-td {
-   margin: auto;
-   align: left
+  padding: 30px;
    
 }
 #pic2-td {
-   margin: auto;
-  align: right
+ padding: 30px;
 }
 #pic3-td {
-   margin: auto;
-  align: left
+   padding: 30px;
 }
 #pic4-td {
-   margin: auto;
-  align: right
+   padding: 30px;
 }
