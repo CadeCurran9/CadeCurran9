@@ -54,7 +54,9 @@ body {
  color: white;
 }
 
-
+#pictable {
+ border-spacing: 5em;
+}
 
  
  
