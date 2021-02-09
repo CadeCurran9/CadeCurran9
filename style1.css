@@ -1,9 +1,13 @@
 body {
+  margin:
   background-color: lightblue;
 }
 #nav-table {
- width: 800px;
+ width: 100%;
 }
 #nav-td {
   width: 200px; text-align:center;
+}
+.img-prog {
+width: 300px;
 }
