@@ -27,21 +27,25 @@ body {
   width: 100%;
 }
   #pic1 {
+   border: 5px solid #555;
   padding: 30px;
    width: 300px
    margin: 10px;
 }
 #pic2 {
+ border: 5px solid #555;
  padding: 30px;
  width:300px
   margin: 10px;
  
 }
 #pic3 {
+ border: 5px solid #555;
    padding: 30px;
  width:300px
 }
 #pic4 {
+ border: 5px solid #555;
    padding: 70px;
  width:300px
   text-align: center;
