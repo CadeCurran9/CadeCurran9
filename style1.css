@@ -28,14 +28,13 @@ body {
 }
   #pic1-td {
    
-   border: 5px solid #555;
+   
   padding: 30px;
    width: 300px
    margin: 10px;
 }
 #pic2-td {
 
- border: 5px solid #555;
  padding: 30px;
  width:300px
   margin: 10px;
@@ -45,13 +44,13 @@ body {
 }
 #pic3-td {
  
- border: 5px solid #555;
+ 
    padding: 30px;
  width:300px
 }
 #pic4-td {
  
- border: 5px solid #555;
+ 
    padding: 140px;
  width:300px
   text-align: center;
@@ -66,8 +65,22 @@ body {
  color: white;
 }
 #pic1 {
+ border: 5px solid #555;
  background-color: white;
 }
+#pic2 {
+ border: 5px solid #555;
+ background-color: white;
+}
+#pic3 {
+ border: 5px solid #555;
+ background-color: white;
+}
+#pic4 {
+ border: 5px solid #555;
+ background-color: white;
+}
+ 
 
  
  
