@@ -26,7 +26,7 @@ body {
 }
   #pic1-td {
   padding: 30px;
-   
+   width: 150px; text-align:left
 }
 #pic2-td {
  padding: 30px;
