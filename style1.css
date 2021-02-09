@@ -27,12 +27,14 @@ body {
   width: 100%;
 }
   #pic1-td {
+   background-color: white;
    border: 5px solid #555;
   padding: 30px;
    width: 300px
    margin: 10px;
 }
 #pic2-td {
+ background-color: white;
  border: 5px solid #555;
  padding: 30px;
  width:300px
@@ -40,11 +42,13 @@ body {
  
 }
 #pic3-td {
+ background-color: white;
  border: 5px solid #555;
    padding: 30px;
  width:300px
 }
 #pic4-td {
+ background-color: white;
  border: 5px solid #555;
    padding: 140px;
  width:300px
@@ -60,10 +64,6 @@ body {
  color: white;
 }
 
-#pic-table {
-
- background-color: white;
-}
 
  
  
